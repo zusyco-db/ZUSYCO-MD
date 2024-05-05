@@ -18,8 +18,8 @@ Creator : @darkmakerofc , @mr-nima-x
 module.exports = {
   OWNER_NUMBER: "254723616685",
   SUDO_NUMBERS : "254723616685,254723616685",
-  OWNER_NAME: "『 ᖴIᘜᗩᑎIᑎTY2 』",
-  BOT_NAME : "ᒍᑌᗰᗩ-ᗪᗷ",
+  OWNER_NAME: "『 ᒍᑌᗰᗩ-ᗪᗷ 』",
+  BOT_NAME : "ᖴIᘜᗩᑎIᑎTY2",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
     ALIVE: 'https://i.ibb.co/YTWznr9/ZUSYCO-ALIVE-IMAGE-LOWQ.jpg',
